@@ -1,7 +1,7 @@
 # magic-glove
 ジェスチャーに対応して魔法の光が動き、魔法を習得した気分になれる手袋  
 micro:bit ブロック：https://makecode.microbit.org/98884-65717-38748-89975  
-動画：  
+動画：https://twitter.com/rntkym0618/status/1287712456442175488?s=20  
 ※Processingとmicro:bitをシリアル通信して、動きに対応して描画している  
 ※たのしいmicro:bitコンテスト2020応募作品  
 
